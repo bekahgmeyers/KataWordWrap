@@ -1,3 +1,8 @@
+# A simple word-wrap function that takes in a string
+# and an integer. The function wraps the string onto new
+# lines after reaching the number of characters indicated
+# by the integer on each line.
+
 class Wrapper:
 
     line = "Fruitful, yielding them don't fifth. He. To said lesser, hath wherein sixth midst day his fly them signs greater man air to beast creature. It meat given above brought creepeth isn't form morning. Sixth created green multiply greater. Creepeth open, set can't morning brought second open living behold sea them. A fruit whose, you'll grass. All every was. Every divided also itself winged lights meat beast sixth it fifth wherein seed, their Also. Green stars divide appear seas His beginning there sea that yielding saw sixth. Kind day male waters male years meat herb he fly two sea meat. Upon."
